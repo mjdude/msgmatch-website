@@ -4,7 +4,7 @@ import {Component} from 'angular2/core';
   selector: 'cover',
   template: `
       <div class="section section-fill-height section-opaque-dark">
-          <div class="background-image background-image-fixed" style="background-image : url('img/cover-1-dark2.jpg')"></div>
+          <div class="background-image background-image-fixed" style="background-image : url('img/cover-1.jpg')"></div>
           <div class="container">
               <div class="row">
                   <div class="col-lg-12 col-offset-md-2 text-left">
